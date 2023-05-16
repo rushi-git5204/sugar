@@ -2,6 +2,6 @@
     CodeFile="About.aspx.cs" Inherits="About" %>
 
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
-</asp:Content>
+</asp:Content> 
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
 </asp:Content>
